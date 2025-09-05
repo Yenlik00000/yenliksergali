@@ -8,5 +8,5 @@ My goal is to contribute to impactful projects as a Junior/Mid-level Backend Dev
 
 
 📫 **How to reach me**  
-- LinkedIn: www.linkedin.com/in/yenlik-sergali
+- LinkedIn: www.linkedin.com/in/yenlik-sergali-486a86372/
 - Email: enlik.sergali@jihc.edu.kz 
